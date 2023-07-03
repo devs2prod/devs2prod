@@ -8,9 +8,9 @@
 
 - :seedling: I’m currently working on [Portfolio](https://github.com/Code-blogger/portfolio)
 
-- :dart:I’m currently learning **Angular Js**
+- :dart: I’m currently learning **Angular Js**
 
-- :wave:I’m looking to collaborate on [HelpingHand](https://github.com/Code-blogger/HelpingHand)
+- :wave: I’m looking to collaborate on [HelpingHand](https://github.com/Code-blogger/HelpingHand)
 
 - :calling: Reach out for **Java, Web Development, CPP, DSA, C**
 
@@ -31,26 +31,26 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></p>
 
 <h2 align="center" style="margin: 5px 10px;">Connect with me:</h2> 
-<p align="left">
-<a href="https://codepen.io/codeblogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeblogger" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/mayanky975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayanky975" height="30" width="40" /></a>
 <a href="https://dev.to/code-blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="code-blogger" height="30" width="40" /></a>
 <a href="https://twitter.com/whos_mayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whos_mayank" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayanky975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayanky975" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16539154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16539154" height="30" width="40" /></a>
-<a href="https://kaggle.com/mayanky975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayanky975" height="30" width="40" /></a>
 <a href="https://instagram.com/code._blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code._blogger" height="30" width="40" /></a>
-<a href="https://dribbble.com/code-blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="code-blogger" height="30" width="40" /></a>
+ <a href="https://discord.gg/its_mayank_67#0439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_mayank_67#0439" height="30" width="40" /></a>
+</p><p align="center">
+ <a href="https://kaggle.com/mayanky975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mayanky975" height="30" width="40" /></a>
 <a href="https://www.behance.net/code-blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="code-blogger" height="30" width="40" /></a>
-<a href="https://hashnode.com/codeblogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codeblogger" height="30" width="40" /></a>
+<a href="https://hashnode.com/@codeblogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="codeblogger" height="30" width="40" /></a>
 <a href="https://medium.com/@code-blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@code-blogger" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cdg_cs191102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cdg_cs191102" height="30" width="40" /></a>
+ <a href="https://codepen.io/codeblogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codeblogger" height="30" width="40" /></a>
+</p><p align="center">
 <a href="https://www.hackerrank.com/mayanky975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayanky975" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/code-bucket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="code-bucket" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/cdg_cs191102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cdg_cs191102" height="30" width="40" /></a><a href="https://codeforces.com/profile/code-bucket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="code-bucket" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/code-blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code-blogger" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@code-blogger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@code-blogger" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mayanky975/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayanky975/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/itsmayank06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="itsmayank06" height="30" width="40" /></a>
-<a href="https://discord.gg/its_mayank_67#0439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_mayank_67#0439" height="30" width="40" /></a>
 </p>
 
 
@@ -65,9 +65,9 @@
 
 </div>
 
-<p align="center" style="margin: 19px 10px;"> <img src="https://komarev.com/ghpvc/?username=code-blogger&label=Profile%20views&color=0e75b6&style=flat" alt="code-blogger" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=code-blogger&label=Profile%20views&color=0e75b6&style=flat" alt="code-blogger" /> </p>
 </div>
 
 <p>&nbsp;</p>
 
-## :rainbow: Have a good day!
+## :rainbow: Have a Good Day!, Feel free to Reach out.
