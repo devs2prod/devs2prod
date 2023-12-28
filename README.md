@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Mayank Yadav</h1>
 
-<img align='right' src='https://github.com/Code-blogger/Code-blogger/assets/84615558/09085ec6-3742-4e40-85bc-de13987a13af' width='300"'>
+<img align='right' src='https://github.com/Code-blogger/Code-blogger/assets/84615558/09085ec6-3742-4e40-85bc-de13987a13af' width='300'>
 
 <h2 align="left" style="margin: 5px 10px;">About Me:</h2> 
 
@@ -15,8 +15,6 @@
 - :calling: Reach out for **Web Development, Competitive Programming, C, C++, Java**
 
 - :open_file_folder: Know about my experiences [Projects](https://github.com/Code-blogger?tab=repositories)
-
-
 <h2 align="center" style="margin: 5px 10px;">Tech Stack:</h2> 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p><p align="center"> 
@@ -52,7 +50,6 @@
 <a href="https://auth.geeksforgeeks.org/user/mayanky975/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayanky975/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/itsmayank06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="itsmayank06" height="30" width="40" /></a>
 </p>
-
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
